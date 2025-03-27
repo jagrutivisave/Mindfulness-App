@@ -11,3 +11,8 @@ Option to connect with a real counselor when needed
 Guided meditation sessions for stress relief and relaxation
 Breathing exercises to manage anxiety and improve focus
 Sleep meditation to aid better rest and mental clarity
+Self-Relief Games & Activities
+
+Interactive games designed for relaxation and stress management
+Cognitive exercises to improve mood and emotional resilience
+Art therapy and journaling features for self-expression
