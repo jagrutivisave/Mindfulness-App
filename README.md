@@ -1,2 +1,2 @@
 # Mindfulness-App
-A Mental Health BOT is an AI-powered chatbot designed to provide mental health support, guidance, and resources to users. It offers a safe and confidential space for individuals to express their emotions, receive coping strategies, and access helpful content related to mental well-being.
+A comprehensive mental health app designed to provide users with emotional support, relaxation techniques, and self-help tools. The app combines AI-driven conversations, meditation guides, and interactive games to promote mental well-being.
